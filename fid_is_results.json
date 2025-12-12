@@ -1,0 +1,12 @@
+{
+  "tumor_domain": {
+    "frechet_inception_distance": 115.39179149584385,
+    "inception_score_mean": 2.0144722848342522,
+    "inception_score_std": 0.18128222406116976
+  },
+  "no_tumor_domain": {
+    "frechet_inception_distance": 88.34697526420898,
+    "inception_score_mean": 1.5515856324496446,
+    "inception_score_std": 0.08515120138303046
+  }
+}
